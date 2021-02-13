@@ -9,7 +9,7 @@ This is an interactive web map of the airports in the United States. I use diffe
 
 ![legend](img/legend.png)
 
-For the airplane icon, the description of each airport which contains the name and the location (city, state) of the airport will popup when clicking it.
+For the airplane icon, the description of each airport which contains the name and the location (city, state) of the airport will popup when clicking it. Also, each state is clickable as well, the state name and the number of the airplane will show up.
 
 **Source**
 -  `airports.geojson` contains all the airports in the United States. This data is converted from a shapefile, which was downloaded and unzipped from <https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile>.
