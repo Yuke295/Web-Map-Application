@@ -7,9 +7,9 @@
 
 This is an interactive web map of the airports in the United States. I use different color to repersent the type of the airports. The "purple-airplane" repersent the airport has air traffic control tower, the "green-airplane" repersent the normal airports. Also, I set the differnet color range to repersent the five different color level of the airports:
 
-![map](img/legend.png)
+![legend](img/legend.png)
 
-For the airplane icon, the description of each airport which contains the name and the location (city, state) of the airport will popip when clicking it.
+For the airplane icon, the description of each airport which contains the name and the location (city, state) of the airport will popup when clicking it.
 
 **Source**
 -  `airports.geojson` contains all the airports in the United States. This data is converted from a shapefile, which was downloaded and unzipped from <https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile>.
