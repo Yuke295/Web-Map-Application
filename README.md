@@ -5,7 +5,7 @@
 
 **Description**
 
-This is an interactive web map of the airports in the United States. I use different color to repersent the type of the airports. The "purple-airplane" repersent the airport has air traffic control tower, the "green-airplane" repersent the normal airports. Also, I set the differnet color range to repersent the five different color level of the airports:
+This is an interactive web map of the airports in the United States. I use different color to repersent the type of the airports. The "purple-airplane" repersent the airport has air traffic control tower, the "green-airplane" repersent the normal airports. Also, I set the differnet color-range to repersent the five different color levels of the airports:
 
 ![legend](img/legend.png)
 
